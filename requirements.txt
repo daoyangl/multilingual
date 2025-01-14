@@ -1,0 +1,12 @@
+git+https://github.com/davidbau/baukit
+datasets
+einops
+matplotlib
+pandas
+numpy
+scikit-learn
+transformers
+accelerate
+openai
+seaborn
+t5
